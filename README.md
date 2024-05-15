@@ -14,7 +14,7 @@
 _To use this module, clone this repository within your project and import it as shown below._
 
 ```bash
-git clone https://github.com/kedto/loyalty.git
+git clone https://github.com/kedto/Assignment-1.git
 ```
 
 ```js
